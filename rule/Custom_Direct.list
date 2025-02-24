@@ -4,7 +4,21 @@
 # 强制直连域名列表，来自个人收集
 # 此规则文件中的域名会定期 PR 至 Geosite 数据库，并删除被 Geosite 收录的域名，因此请在支持 Geosite 的软件（如 OpenClash）中使用。
 
-
+#常见
+DOMAIN-SUFFIX,hb.sjzhzjk.com
+DOMAIN-SUFFIX,xiaowei.run
+DOMAIN-SUFFIX,uc.qingdaocaee.com
+DOMAIN-SUFFIX,caoyanglee.com
+DOMAIN-SUFFIX,g-netlink.net
+DOMAIN-SUFFIX,app.syybxz.com
+DOMAIN-SUFFIX,oaifree.com
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,wpxz.pro
+DOMAIN-SUFFIX,ottdns.com
+DOMAIN-SUFFIX,cmdns.xyz
+DOMAIN-SUFFIX,aptv.app
+DOMAIN-SUFFIX,pc528.net
+DOMAIN-SUFFIX,xiuxitong.com
 # ImmortalWrt 在线更新服务
 # DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 # ImmortalWrt 软件仓库
