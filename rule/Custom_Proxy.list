@@ -2,7 +2,16 @@
 # AUTHOR: Aethersailor
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # 强制代理列表，来自个人收集
-
+#自用
+DOMAIN-SUFFIX,debox-oss.oss-accelerate-overseas.aliyuncs.com
+DOMAIN-SUFFIX,debox.pro
+DOMAIN-SUFFIX,debox-oss.oss-cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX,debox.site
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitget.fit
+DOMAIN-SUFFIX,dexscreener.com
+DOMAIN-SUFFIX,ave.ai
+DOMAIN-SUFFIX,gate.io
 # GooglePlay 相关
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,clientservices.googleapis.com
